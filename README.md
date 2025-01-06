@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="①버튼을 눌렀을 때 이동할 링크" target="_blank">
--- 자바 뱃지
+//자바 뱃지
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
 
 -- 스프링 뱃지
